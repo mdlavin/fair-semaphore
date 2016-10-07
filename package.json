@@ -1,6 +1,6 @@
 {
   "name": "fair-semaphore",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A semaphore that unlocks waiters in a fair manner, by key, to allow balancing between different consumers",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdlavin/fair-sempahore.js.git"
+    "url": "git+https://github.com/mdlavin/fair-semaphore.js.git"
   },
   "keywords": [
     "semaphore",
@@ -17,7 +17,7 @@
   "author": "Matt Lavin <matt.lavin@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mdlavin/fair-sempahore.js/issues"
+    "url": "https://github.com/mdlavin/fair-semaphore.js/issues"
   },
   "homepage": "https://github.com/mdlavin/fair-semaphore.js#readme",
   "dependencies": {
