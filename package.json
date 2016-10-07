@@ -1,6 +1,6 @@
 {
   "name": "fair-semaphore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A semaphore that unlocks waiters in a fair manner, by key, to allow balancing between different consumers",
   "main": "src/index.js",
   "scripts": {
